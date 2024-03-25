@@ -19,4 +19,16 @@ router.get("/realtimeproducts", async (req, res) => {
     res.status(500).json({ error: "Error interno del servidor" });
   }
 });
+
+router.get("/detalle", async (req, res) => {
+  try {
+    res.render("detalle");
+  } catch (error) {
+    console.log("error al mostrar los prodcutos online", error);
+    res.status(500).json({ error: "Error interno del servidor" });
+  }
+});
+
+
+
 module.exports = router;
