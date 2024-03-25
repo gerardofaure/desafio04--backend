@@ -13,7 +13,7 @@
   },
   {
     "title": "Café",
-    "description": "CAFÉ CRUZEIRO Molido - 250 gr.",
+    "description": "CAFÉ CRUZEIRO Molido grano tostado - 250 gr.",
     "price": "99",
     "img": "/img/cafe.webp",
     "code": "lider002",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Azúcar",
-    "description": "AZUCAR MORENA - 1 kilo",
+    "description": "AZUCAR refinada Blanca granulada - 1 kilo",
     "price": "55",
     "img": "/img/azucar.webp",
     "code": "lider003",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Harina de Trigo",
-    "description": "HARINA BLANCAFLOR - 1 kilo",
+    "description": "HARINA BLANCAFLOR pastelera y repostera - 1 kilo",
     "price": "45",
     "img": "/img/harina.webp",
     "code": "lider005",
@@ -61,7 +61,7 @@
   },
   {
     "title": "Pasta",
-    "description": "ESPAGUETI GALLO - 500 gr.",
+    "description": "ESPAGUETI GALLO, los que no se pegan - 500 gr.",
     "price": "65",
     "img": "/img/pasta.webp",
     "code": "lider006",
@@ -73,7 +73,7 @@
   },
   {
     "title": "Sal de Mesa",
-    "description": "SAL CRYSTAL - 1 kilo",
+    "description": "SAL Lobos directo del mar de Bolivia - 1 kilo",
     "price": "30",
     "img": "/img/sal.webp",
     "code": "lider007",
@@ -85,7 +85,7 @@
   },
   {
     "title": "Leche",
-    "description": "LECHE GLORIA Entera - 1 litro",
+    "description": "LECHE GLORIA Entera, tal como te gusta - 1 litro",
     "price": "89",
     "img": "/img/leche.webp",
     "code": "lider008",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Pan de Pascua",
-    "description": "PAN Ideal - 600 gr.",
+    "description": "PAN Ideal, navideño y delicioso. Con frutos secos - 600 gr.",
     "price": "55",
     "img": "/img/panpascua.webp",
     "code": "lider009",
@@ -109,7 +109,7 @@
   },
   {
     "title": "Huevos",
-    "description": "HUEVOS CAMPEROS - docena",
+    "description": "HUEVOS CAMPEROS, tenemos los que te faltan - docena",
     "price": "65",
     "img": "/img/huevos.webp",
     "code": "lider010",
@@ -121,7 +121,7 @@
   },
   {
     "title": "Manzanas",
-    "description": "MANZANAS VERDES - 1 kilo",
+    "description": "MANZANAS VERDES, directo de los arbolitos - 1 kilo",
     "price": "79",
     "img": "/img/manzanas.webp",
     "code": "lider011",
@@ -133,7 +133,7 @@
   },
   {
     "title": "Plátanos",
-    "description": "PLÁTANOS - 1 kilo",
+    "description": "PLÁTANOS TROPICALES del trópico tropical - 1 kilo",
     "price": "49",
     "img": "/img/platanos.webp",
     "code": "lider012",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Cerveza",
-    "description": "CERVEZA CRISTAL - 6 unidades",
+    "description": "CERVEZA CRISTAL Unica , grande y nuestra- 6 unidades",
     "price": "35",
     "img": "/img/cerveza.webp",
     "code": "lider013",
@@ -157,7 +157,7 @@
   },
   {
     "title": "Refresco",
-    "description": "COCA COLA - 2 litros",
+    "description": "COCA COLA, Zero Azucar y mucho sabor - 2 litros",
     "price": "25",
     "img": "/img/refresco.webp",
     "code": "lider014",
@@ -169,7 +169,7 @@
   },
   {
     "title": "Queso",
-    "description": "QUESO EDAM - 250 gr.",
+    "description": "QUESO EDAM, la mejor del mundo mundial - 250 gr.",
     "price": "85",
     "img": "/img/queso.webp",
     "code": "lider015",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Yogurt",
-    "description": "YOGURT DANONE Fresa - 150 gr.",
+    "description": "YOGURT DANONE Fresa, sabor dulce - 150 gr.",
     "price": "30",
     "img": "/img/yogurt.webp",
     "code": "lider016",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Mantequilla",
-    "description": "MANTEQUILLA GLORIA - 200 gr.",
+    "description": "MANTEQUILLA GLORIA, para le pan de cada dia - 200 gr.",
     "price": "40",
     "img": "/img/mantequilla.webp",
     "code": "lider017",
@@ -205,7 +205,7 @@
   },
   {
     "title": "Galletas",
-    "description": "GALLETAS OREO - 150 gr.",
+    "description": "GALLETAS OREO, originales de la mejor marca - 150 gr.",
     "price": "20",
     "img": "/img/galletas.webp",
     "code": "lider018",
@@ -217,7 +217,7 @@
   },
   {
     "title": "Jabón de Tocador",
-    "description": "JABÓN DOVE Barra - 100 gr.",
+    "description": "JABÓN DOVE Barra, para lavarse hasta donde no se ve - 100 gr.",
     "price": "15",
     "img": "/img/jabon.webp",
     "code": "lider019",
@@ -229,7 +229,7 @@
   },
   {
     "title": "Shampoo",
-    "description": "SHAMPOO SEDAL Coco - 400 ml",
+    "description": "SHAMPOO SEDAL Coco, y sirve para el cabello - 400 ml",
     "price": "35",
     "img": "/img/shampoo.webp",
     "code": "lider020",
@@ -241,7 +241,7 @@
   },
   {
     "title": "Cepillo de Dientes",
-    "description": "CEPILLO DE DIENTES COLGATE Suave - 1 unidad",
+    "description": "CEPILLO DE DIENTES COLGATE , una buena limpieza - 1 unidad",
     "price": "10",
     "img": "/img/cepillo.webp",
     "code": "lider021",
@@ -253,7 +253,7 @@
   },
   {
     "title": "Papel Higiénico",
-    "description": "PAPEL HIGIÉNICO SUAVE x4",
+    "description": "PAPEL HIGIÉNICO SUAVE x4, para limpiar el que no se ve",
     "price": "30",
     "img": "/img/papelhigienico.webp",
     "code": "lider022",
@@ -265,7 +265,7 @@
   },
   {
     "title": "Detergente",
-    "description": "DETERGENTE ACE Limón - 2 litros",
+    "description": "DETERGENTE ACE Limón, te limpia todo - 2 litros",
     "price": "45",
     "img": "/img/detergente.webp",
     "code": "lider023",
@@ -277,7 +277,7 @@
   },
   {
     "title": "Desinfectante",
-    "description": "DESINFECTANTE BACTERICIDA - 500 ml",
+    "description": "DESINFECTANTE, mata el 99.99% de las bacterias - 500 ml",
     "price": "25",
     "img": "/img/desinfectante.webp",
     "code": "lider024",
@@ -289,7 +289,7 @@
   },
   {
     "title": "Esponja",
-    "description": "ESPONJA SCOTCH BRITE - 1 unidad",
+    "description": "ESPONJA SCOTCH BRITE, refriega esa mugre - 1 unidad",
     "price": "5",
     "img": "/img/esponja.webp",
     "code": "lider025",
@@ -313,7 +313,7 @@
   },
   {
     "title": "Salsa de Tomate",
-    "description": "SALSA DE TOMATE CASERA - 400 gr.",
+    "description": "SALSA DE TOMATE CASERA, como tu mamá- 400 gr.",
     "price": "40",
     "img": "/img/salsatomate.webp",
     "code": "lider027",
@@ -325,7 +325,7 @@
   },
   {
     "title": "Crema de Manos",
-    "description": "CREMA DE MANOS NEUTROGENA - 75 ml",
+    "description": "CREMA DE MANOS , para la piel - 75 ml",
     "price": "50",
     "img": "/img/cremamanos.webp",
     "code": "lider028",
@@ -349,7 +349,7 @@
   },
   {
     "title": "Cereal",
-    "description": "CEREAL NESQUIK - 300 gr.",
+    "description": "CEREAL NESQUIK para el bebé de la casa- 300 gr.",
     "price": "40",
     "img": "/img/cereal.webp",
     "code": "lider030",
@@ -361,7 +361,7 @@
   },
   {
     "title": "Pescado Congelado",
-    "description": "PESCADO CONGELADO FILETE - 1 kilo",
+    "description": "PESCADO CONGELADO, del mar de Bolivia - 1 kilo",
     "price": "120",
     "img": "/img/pescado.webp",
     "code": "lider031",
@@ -373,7 +373,7 @@
   },
   {
     "title": "Pollo Entero",
-    "description": "POLLO ENTERO FRESCO - 2 kilos",
+    "description": "POLLO ENTERO, sin cabeza porque es horrendo- 2 kilos",
     "price": "80",
     "img": "/img/pollo.webp",
     "code": "lider032",
@@ -385,7 +385,7 @@
   },
   {
     "title": "Papel Aluminio",
-    "description": "PAPEL ALUMINIO REYNOLDS - 5 metros",
+    "description": "PAPEL ALUMINIO, para bloquear marcianos - 5 metros",
     "price": "15",
     "img": "/img/papelaluminio.webp",
     "code": "lider033",
@@ -397,7 +397,7 @@
   },
   {
     "title": "Té",
-    "description": "TÉ LIPTON Yellow Label - 100 gr.",
+    "description": "TÉ LIPTON Yellow Label, bolsita de té - 100 gr.",
     "price": "30",
     "img": "/img/te.webp",
     "code": "lider034",
@@ -409,7 +409,7 @@
   },
   {
     "title": "Miel",
-    "description": "MIEL DE ABEJA - 250 gr.",
+    "description": "MIEL DE ABEJA, si regala es miel da. - 250 gr.",
     "price": "50",
     "img": "/img/miel.webp",
     "code": "lider035",
@@ -421,7 +421,7 @@
   },
   {
     "title": "Vino Tinto",
-    "description": "VINO TINTO CASILLERO DEL DIABLO - 750 ml",
+    "description": "VINO CASILLERO DEL DIABLO, corcho del bueno- 750 ml",
     "price": "120",
     "img": "/img/vinotinto.webp",
     "code": "lider036",
@@ -433,7 +433,7 @@
   },
   {
     "title": "Cereal para Bebés",
-    "description": "CEREAL GERBER Multigrano - 200 gr.",
+    "description": "CEREAL GERBER Multigrano, todo para la bebe - 200 gr.",
     "price": "25",
     "img": "/img/cerealbebes.webp",
     "code": "lider037",
@@ -445,7 +445,7 @@
   },
   {
     "title": "Pañales",
-    "description": "PAÑALES PAMPERS Talla M - paquete x20",
+    "description": "PAÑALES PAMPERS Talla M - con M de miedo paquete x20",
     "price": "50",
     "img": "/img/panales.webp",
     "code": "lider038",
@@ -457,7 +457,7 @@
   },
   {
     "title": "Crema para Pañal",
-    "description": "CREMA PARA PAÑAL JOHNSON'S - 100 gr.",
+    "description": "CREMA JOHNSON'S , para el culete del bebe- 100 gr.",
     "price": "20",
     "img": "/img/cremapanial.webp",
     "code": "lider039",
@@ -469,7 +469,7 @@
   },
   {
     "title": "Puré de Frutas",
-    "description": "PURÉ DE FRUTAS GERBER Manzana-Pera - 120 gr.",
+    "description": "PURÉ DE FRUTAS GERBER Manzana-Pera-limon - 120 gr.",
     "price": "15",
     "img": "/img/purefrutas.webp",
     "code": "lider040",
@@ -481,7 +481,7 @@
   },
   {
     "title": "Aceitunas",
-    "description": "ACEITUNAS VERDES DESCAROZADAS - 250 gr.",
+    "description": "ACEITUNAS VERDES, de los arbolitos - 250 gr.",
     "price": "35",
     "img": "/img/aceitunas.webp",
     "code": "lider041",
@@ -493,7 +493,7 @@
   },
   {
     "title": "Pistachos",
-    "description": "PISTACHOS SALADOS - 150 gr.",
+    "description": "PISTACHOS SALADOS, para los glotones - 150 gr.",
     "price": "60",
     "img": "/img/pistachos.webp",
     "code": "lider042",
@@ -505,7 +505,7 @@
   },
   {
     "title": "Papas Fritas",
-    "description": "PAPAS FRITAS LAYS Clásicas - 100 gr.",
+    "description": "PAPAS FRITAS LAYS Clásicas, bolsa ruidosa - 100 gr.",
     "price": "25",
     "img": "/img/papasfritas.webp",
     "code": "lider043",
@@ -517,7 +517,7 @@
   },
   {
     "title": "Galletas Saladas",
-    "description": "GALLETAS SALADAS CRISPY - 200 gr.",
+    "description": "GALLETAS SALADAS CRISPY para el carrete- 200 gr.",
     "price": "20",
     "img": "/img/galletassaladas.webp",
     "code": "lider044",
@@ -529,7 +529,7 @@
   },
   {
     "title": "Chocolate",
-    "description": "CHOCOLATE HERSHEY'S - 100 gr.",
+    "description": "CHOCOLATE HERSHEY'S para celebrar con ella- 100 gr.",
     "price": "45",
     "img": "/img/chocolate.webp",
     "code": "lider045",
@@ -541,7 +541,7 @@
   },
   {
     "title": "Pan de Molde",
-    "description": "PAN DE MOLDE WONDER Blanco - 600 gr.",
+    "description": "PAN DE MOLDE WONDER Blanco, sin mantequilla- 600 gr.",
     "price": "30",
     "img": "/img/pandemolde.webp",
     "code": "lider046",
@@ -553,7 +553,7 @@
   },
   {
     "title": "Atún en Lata",
-    "description": "ATÚN EN LATA PESCANOVA - 200 gr.",
+    "description": "ATÚN EN LATA PESCANOVA, ahora con menos delfin- 200 gr.",
     "price": "40",
     "img": "/img/atun.webp",
     "code": "lider047",
@@ -565,7 +565,7 @@
   },
   {
     "title": "Sardinas en Lata",
-    "description": "SARDINAS EN LATA LITORAL - 120 gr.",
+    "description": "SARDINAS EN LATA LITORAL, para el miau - 120 gr.",
     "price": "35",
     "img": "/img/sardinas.webp",
     "code": "lider048",
@@ -577,7 +577,7 @@
   },
   {
     "title": "Pasta de Tomate",
-    "description": "PASTA DE TOMATE ITALIANA - 200 gr.",
+    "description": "PASTA DE TOMATE ITALIANA, mamma mia!!- 200 gr.",
     "price": "25",
     "img": "/img/pastatomate.webp",
     "code": "lider049",
@@ -589,7 +589,7 @@
   },
   {
     "title": "Mantequilla de Maní",
-    "description": "MANTEQUILLA DE MANÍ NATURAL - 250 gr.",
+    "description": "MANTEQUILLA DE MANÍ NATURAL, 0% mani - 250 gr.",
     "price": "55",
     "img": "/img/mantequillamani.webp",
     "code": "lider050",
